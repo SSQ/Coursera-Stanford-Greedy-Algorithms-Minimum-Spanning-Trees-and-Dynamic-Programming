@@ -1,8 +1,8 @@
 # Coursera-Stanford-Greedy-Algorithms-Minimum-Spanning-Trees-and-Dynamic-Programming
 
-Course can be found [here](https://www.coursera.org/learn/algorithms-greedy)
+Course can be found in [Coursera](https://www.coursera.org/learn/algorithms-greedy)
 
-Notebook for quick search can be found [here](https://ssq.github.io/2017/07/17/Coursera%20S%20Algorithms%20Specialization%20Notebook/)
+Quiz answers and notebook for quick search can be found in my blog [SSQ](https://ssq.github.io/2017/07/17/Coursera%20S%20Algorithms%20Specialization%20Notebook/)
 
 - Week 1: 
   - [Greedy algorithm](https://github.com/SSQ/Coursera-Stanford-Greedy-Algorithms-Minimum-Spanning-Trees-and-Dynamic-Programming/blob/master/Lecture%20Slides/19.2-algo2-greedy-sched2-typed.pdf);
